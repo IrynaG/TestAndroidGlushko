@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestAndroidGlushko</string>
+    <string name="e_mail_6">Введите e-mail, не менее 6 символов</string>
+    <string name="pass_4">Пароль, не менее 4 символов</string>
+    <string name="e_mail">Введите e-mail</string>
+    <string name="password">Введите пароль</string>
+    <string name="repeat_pass">Повторите пароль</string>
+    <string name="registration">Зарегистрировать</string>
+    <string name="enter">Войти</string>
+    <string name="registration_1">Регистрация</string>
+    <string name="entrance">Выйти</string>
+
+
+</resources>
