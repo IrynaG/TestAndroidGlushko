@@ -46,14 +46,7 @@ public class StartActivity extends AppCompatActivity {
 
 
 
-        /*if (mail==  )
 
-        {Intent intent = new Intent(this, EnterActivity.class);
-            startActivity(intent);}
-
-        else{
-            Toast toast = Toast.makeText(this, "Неверный логин и/или пароль",Toast.LENGTH_LONG);
-            toast.show();}*/
     }
 
     public void clickReg(View view) {
