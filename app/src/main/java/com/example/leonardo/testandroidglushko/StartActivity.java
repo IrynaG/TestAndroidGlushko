@@ -8,7 +8,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import static com.example.leonardo.testandroidglushko.R.id.mail2;
+
 
 public class StartActivity extends AppCompatActivity {
 
